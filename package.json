@@ -1,0 +1,23 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/lodash": "^4.14.191",
+    "@types/mongoose": "^5.11.97"
+  },
+  "dependencies": {
+    "class-validator": "^0.14.0",
+    "express-class-validator": "^1.0.3",
+    "http-status-codes": "^2.2.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.9.1"
+  }
+}
